@@ -1,0 +1,11 @@
+{
+  "name": "Hemanth | Portfolio",
+  "description": "A minimal, narrative-driven portfolio for Hemanth, a Full Stack Developer specializing in Django, React, and AWS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Django",
+    "React",
+    "AWS",
+    "Cloud Architecture"
+  ]
+}
