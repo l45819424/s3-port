@@ -3,7 +3,7 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      nodejs: 18
+      nodejs: 20 # <-- Change this from 18 to 20
     commands:
       - npm install
 
