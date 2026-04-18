@@ -463,7 +463,6 @@ export default function App() {
                 animate={{ opacity: [1, 0.4, 1] }}
                 transition={{ duration: 2, repeat: Infinity }}
               />
-              <Mono className="text-[9px] font-bold !opacity-100">Narrative System Ready</Mono>
             </div>
             <h1 className="text-7xl md:text-8xl lg:text-9xl font-sans font-bold leading-[0.85] tracking-[-0.05em] mb-8">
               <PretextText text="HEMANTH." />
